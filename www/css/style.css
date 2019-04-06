@@ -1,1 +1,10 @@
 /* Empty. Add your own CSS if you like */
+body{ 
+background-color: blue;
+}
+h3{ 
+color:white;
+font-size: 200%;
+font-family: Algerian;
+}
+
